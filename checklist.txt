@@ -3,4 +3,3 @@ The main elements of the site work correctly
 No errors in the console
 No broken links
 The main pages of the site open and work
-No visible errors on the main page
