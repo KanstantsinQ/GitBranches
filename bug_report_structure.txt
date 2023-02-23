@@ -1,0 +1,12 @@
+summary
+project
+component
+version
+severity
+priority
+status
+autor
+assigned to
+description
+attachment
+
